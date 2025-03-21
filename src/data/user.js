@@ -40,8 +40,22 @@ const INFO = {
 				linkText: "View Project",
 				link: "https://github.com/soksereyvisalBIU",
 				images:[
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+					"../1.jpg",
+					"../2.jpg",
+					"../3.jpg",
+				],
+			},
+			{
+				title: "Banking System",
+				description:
+					"University project to create a simple C++ program that store data in file and perform CRUD operations on it.",
+				logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+				linkText: "View Project",
+				link: "https://github.com/soksereyvisalBIU",
+				images:[
+					"../1.jpg",
+					"../2.jpg",
+					"../3.jpg",
 				],
 			},
 		]
